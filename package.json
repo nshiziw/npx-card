@@ -1,0 +1,28 @@
+{
+  "name": "npx-card",
+  "version": "1.0.0",
+  "description": "Easily connect with me using this interactive CLI business card! 🚀",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "boxen": "^5.1.0"
+  },
+  "bin": {
+    "wilson_nshizirungu": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nshiziw/npx-card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nshiziw/npx-card/issues"
+  },
+  "homepage": "https://github.com/nshiziw/npx-card#readme"
+}
